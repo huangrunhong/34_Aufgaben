@@ -12,3 +12,13 @@
   padding: 5px;
   border-radius: 5px;
 }
+
+.styleChange {
+  background-color: beige;
+  color: black;
+}
+.exampleChange {
+  border: 2px solid yellowgreen;
+  border-radius: 2rem;
+  padding: 0.25rem 1rem;
+}
